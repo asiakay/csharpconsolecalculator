@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUCFrHOxJ+MUqcuppxXPmBVYyPYAmJ2TKJd50zw336bN/PGjMzyIYM3aI7+aDw2hxH4Wrk0rMP+r60F23FvbcA==",
+  "success": true,
+  "projectFilePath": "/Users/asialakaygradyloves/Projects/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/asialakaygradyloves/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
